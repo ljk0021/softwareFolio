@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/86450993/123887725-fa204600-d98c-11eb-9efb-29c57b8df475.jpg" width="320px" height="240px" title="px(픽셀) 크기 설정" alt="Github_fork"></img><br/>   
+<img src="https://user-images.githubusercontent.com/86450993/123887725-fa204600-d98c-11eb-9efb-29c57b8df475.jpg" width="320px" height="320px" title="실험" alt="Github_fork"></img><br/>   
 --------------------------------
 # 국립 안동대학교 식물의학과 20160661 이종규
 
