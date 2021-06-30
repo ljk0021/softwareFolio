@@ -71,5 +71,5 @@
 >> 안동대학교 인근 야산에서 무작위로 채칩한 식물 뿌리에서 추출한 식물 내생균은 총 8종이고, 그 8종에 대하여 주요 식물 병원균 4종에 대하여 대치배양 하였습니다. 그 결과, 총 2종에서 식물 병원균 억제 효과가 나타났습니다. 그리고 효과가 있는 2종에 대한 생물학적 분류를 하면 완료인 실험이지만, 2종 중 1종에서 2차 대사산물이 나와 이미 확산이 완료된 병원균에 대해 억제효과를 보여 추가적인 실험을 진행하고 있습니다. 
 
 # 실험 주요사진
-<img src="https://user-images.githubusercontent.com/86450993/123887771-086e6200-d98d-11eb-8d4a-b069b17d392d.jpg" width="320px" height="320px" title="실험" alt="Github_fork"></img><br/>  
-<img src="https://user-images.githubusercontent.com/86450993/123887769-086e6200-d98d-11eb-9035-5083f7a6ffa7.jpg" width="320px" height="320px" title="실험" alt="Github_fork"></img><br/>  
+<img src="https://user-images.githubusercontent.com/86450993/123887771-086e6200-d98d-11eb-8d4a-b069b17d392d.jpg" width="360px" height="320px" title="실험" alt="Github_fork"></img><br/>  
+<img src="https://user-images.githubusercontent.com/86450993/123887769-086e6200-d98d-11eb-9035-5083f7a6ffa7.jpg" width="360" height="320px" title="실험" alt="Github_fork"></img><br/>  
